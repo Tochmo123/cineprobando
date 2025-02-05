@@ -65,7 +65,7 @@ Trailer</a></td>";
     </table>
     <br>
     <div>
-        <a href="gestion_pelicula.html"><button>Añadir/Borrar Películas</button></a>
+        <a href="gestion_pelicula.html"><button>Añadir/Borrar Películas </button></a>
     </div>
 </body>
 

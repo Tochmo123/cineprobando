@@ -38,7 +38,6 @@ jobs:
           key: ${{ secrets.REMOTE_KEY }}
           source: compose.yml
           target: ~/deploy/
-          tar: false
 
       - name: Deploy with Docker Compose
         uses: appleboy/ssh-action@master
